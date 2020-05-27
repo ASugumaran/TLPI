@@ -1,6 +1,6 @@
 /***********************************************************/
 /*  Author       : Sugumaran_A                             */
-/*  File_Name    : sem1.c                                  */         
+/*  File_Name    : sem2.c                                  */         
 /*  Description  : Locking and unlocking a semaphore       */
 /*  Date         : 26-05-2020                              */
 /***********************************************************/
